@@ -1,4 +1,4 @@
-# EvalCityu lecture note
+# EvalCityu
 
 课件会进行年年的更新，在提交的时候备注写当年的年份即可
 
