@@ -20,3 +20,4 @@ pids
 *.seed
 *.pid.lock
 .hugo_build.lock
+.DS_Store
